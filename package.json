@@ -1,0 +1,26 @@
+{
+  "name": "project-ivy-iot-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateanticevic/project-ivy-iot-hub.git"
+  },
+  "author": "Mate Anticevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateanticevic/project-ivy-iot-hub/issues"
+  },
+  "homepage": "https://github.com/mateanticevic/project-ivy-iot-hub#readme",
+  "devDependencies": {
+    "@types/noble": "^0.0.40",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
